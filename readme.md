@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/PRIYANSHU-CODES/github-readme-activity-graph"><img alt="Priyanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PRIYANSHU-CODES&theme=redical" /></a>
+[![Priyanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PRIYANSHU-CODES&bg_color=000000&color=c093fa&line=64ff00&point=ff6e00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
