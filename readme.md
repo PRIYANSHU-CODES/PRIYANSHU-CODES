@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 📋 My Portfolio Website: **[Link](https://priyanshu.devfolio.io)**
+- 📋 My Portfolio Website: **[Link](https://priyanshukushwaha.netlify.app/)**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/PRIYANSHU-CODES?tab=repositories)**
 
