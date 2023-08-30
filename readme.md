@@ -1,68 +1,30 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu</h1>
-<h3 align="center">I'm a student and a coder.</h3>
+# 💫 About Me:
+🌱 I’m currently learning Web Development<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>📋 My Portfolio Website: Link<br><br>👨‍💻 All of my projects are available at My Github<br><br>📫 How to reach me impkushwaha30@gmail.com<br><br>⚡ Fun fact I am a gamer along with a coder.
 
 
-## 🙋‍♂️ About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_priyanshu.kushwaha_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshukushwaha30/) 
 
-- 🌱 I’m currently learning **Web Development**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PRIYANSHU-CODES&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU-CODES&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYANSHU-CODES&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PRIYANSHU-CODES&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-- 📋 My Portfolio Website: **[Link](https://priyanshukushwaha.netlify.app/)**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/PRIYANSHU-CODES?tab=repositories)**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PRIYANSHU-CODES&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-- 📫 How to reach me **impkushwaha30@gmail.com**
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-- ⚡ Fun fact **I am a gamer along with a coder.**
+---
+[![](https://visitcount.itsvg.in/api?id=PRIYANSHU-CODES&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/c.png"/> </a> 
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/AbhinavRajputEXE/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhinav Rajput's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU-CODES&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📈 My Github Stats
-
-  <br/>
-  <p align="center">
-    <a href="https://github.com/PRIYANSHU-CODES/github-readme-stats"><img alt="Priyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU-CODES&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PRIYANSHU-CODES/github-readme-stats"><img alt="Priyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYANSHU-CODES&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-[![Priyanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PRIYANSHU-CODES&bg_color=000000&color=c093fa&line=64ff00&point=ff6e00&area=true&hide_border=true)](https://github.com/PRIYANSHU-CODES/github-readme-activity-graph)
-
-<br/>
-<br/>
-
-## 🩻 HOLOPIN Badges:
-
-[![An image of @priyanshu30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu30)](https://holopin.io/@priyanshu30)
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/priyanshukushwaha30/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_priyanshu.kushwaha_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
