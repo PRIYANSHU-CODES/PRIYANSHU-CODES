@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web Development<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>📋 My Portfolio Website: [Link](https://priyanshukushwaha.netlify.app/)<br><br>👨‍💻 All of my projects are available at My Github<br><br>📫 How to reach me impkushwaha30@gmail.com<br><br>⚡ Fun fact I am a gamer along with a coder.
+🌱 I’m currently learning Web Development<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>📋 My Portfolio Website: [Link](https://pkushwaha.netlify.app/)<br><br>👨‍💻 All of my projects are available at My Github<br><br>📫 How to reach me impkushwaha30@gmail.com<br><br>⚡ Fun fact I am a gamer along with a coder.
 
 
 ## 🌐 Socials:
